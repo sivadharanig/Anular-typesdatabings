@@ -1,0 +1,12 @@
+.r{
+    border:red ;
+    border-style: double;
+    width: 50% ;
+    margin: 0 auto;
+    text-align: center;
+    font-family: cursive;
+}
+.s1{
+    font-style: oblique;
+    text-align: center;
+}
